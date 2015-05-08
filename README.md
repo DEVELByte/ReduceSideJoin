@@ -1,4 +1,4 @@
-BookPublicationAnalysis
+Reduce Side Join
 ==============================
 
 MapReduce program to Implement Reduce side joining technique.
